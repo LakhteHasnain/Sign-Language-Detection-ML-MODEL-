@@ -42,7 +42,7 @@ A real-time sign language detection system that uses computer vision and machine
 
  **Clone the Repo**
    ```bash
-   git clone[ https://github.com/your-username/sign-language-detector.git](https://github.com/LakhteHasnain/Sign-Language-Detection-ML-MODEL-.git)
+   git clone https://github.com/LakhteHasnain/Sign-Language-Detection-ML-MODEL-.git
    cd sign-language-detector
    ```
 
